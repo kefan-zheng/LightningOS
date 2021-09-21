@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "proto.h": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "math.h": "c",
+        "*.tcc": "c",
+        "fstream": "c",
+        "iosfwd": "c",
+        "istream": "c",
+        "limits": "c",
+        "sstream": "c",
+        "streambuf": "c",
+        "cstdlib": "c",
+        "atomic": "c",
+        "tty.h": "c",
+        "const.h": "c",
+        "stdio.h": "c",
+        "protect.h": "c",
+        "type.h": "c"
+    }
+}
